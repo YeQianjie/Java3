@@ -21,3 +21,4 @@ public class test19 {
 		System.out.print("闰年的数目为:"+number);
 }
 }
+

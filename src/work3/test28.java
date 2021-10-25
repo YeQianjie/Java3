@@ -24,6 +24,7 @@ public class test28 {
 	            System.out.print(numbers[i]+" ");
 	    }
 	
+	
 
 	}
 

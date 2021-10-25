@@ -23,6 +23,7 @@ public class test5 {
 	   year=year-1;
    }
    
+   
    int h=(day+(int)(26*(month+1)/10)+(int)(year%100)+(int)(year%100/4)+(int)year/400+(int)year/20)%7;
    if(h==0)
 	   System.out.println("Day of the week is Saturday");

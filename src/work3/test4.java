@@ -20,5 +20,6 @@ public class test4 {
    else
 	   System.out.println("这些输入值不合法！");
 	}
+	
 
 }

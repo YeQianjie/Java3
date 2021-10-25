@@ -19,5 +19,6 @@ public class test26 {
 	System.out.print("其对应的八进制为:"+k);
 
 	}
+	
 
 }

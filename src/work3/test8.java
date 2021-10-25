@@ -7,6 +7,7 @@ public class test8 {
 		int number=(int)Math.random()*52+1;
 		System.out.print("The card you picked is ");
 		
+		
 		if(number%13==1)
 			System.out.print("Ace of ");
 		else if(number%13==11)

@@ -19,5 +19,6 @@ public class test9 {
 			System.out.print("The point is not in the triangle");
 			
 	}
+	
 
 }

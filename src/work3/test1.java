@@ -6,6 +6,7 @@ public class test1 {
 		// TODO Auto-generated method stub
       int number=(int)(Math.random()*12+1);
       
+      
       if(number==1) {
     	  System.out.println("January");
       }

@@ -51,6 +51,7 @@ public class test20 {
             System.out.println(str1 + year + str2);
             str1 = "";
             str2 = "";
+            
         }
 
 	}

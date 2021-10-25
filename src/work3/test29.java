@@ -44,5 +44,6 @@ public class test29 {
 			System.out.print(number2[j]+" ");
 	}
 
+			
 }
 }

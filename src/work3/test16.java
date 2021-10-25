@@ -47,6 +47,7 @@ public class test16 {
 			System.out.printf(String.format("%.2f",amount));
 			System.out.println();
 			
+			
 		}
 		
 	}

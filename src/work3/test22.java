@@ -18,6 +18,7 @@ public class test22 {
 				number2=(int)(Math.random()*10);
 			
 			
+			
 	}
 
 }

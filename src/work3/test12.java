@@ -16,4 +16,6 @@ public class test12 {
     	  System.out.println(sum);
 	}
 
+	
 }
+

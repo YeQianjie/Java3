@@ -29,6 +29,7 @@ public class test15 {
 			System.out.print(String.format("%.2f",totalpayment));
 			System.out.println();
 			
+			
 		}
 	}
 

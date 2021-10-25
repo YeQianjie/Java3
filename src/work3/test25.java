@@ -16,6 +16,7 @@ public class test25 {
          }
          System.out.println("二进制表示为："+er);
 
+         
     }
 }
 

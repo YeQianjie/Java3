@@ -17,4 +17,5 @@ public class test7 {
 	    	  System.out.println("Point "+"("+x+", "+y+") is not in the rectangle");
 	}
 
+	
 }
